@@ -6,27 +6,16 @@ theme:
   name: 'material'
   language: 'ru'
   palette:
-    primary: 'indigo'
+    primary: 'black'
     accent: 'indigo'
 copyright: 'Copyright &copy; 2020 NoBullshit Academy'
 
 nav:
-  - Хоум: index.md
-  - Data Science:
-    - Вступление: data_science/index.md
-    - Урок 1: data_science/lesson1.md
-    - Урок 2: data_science/lesson2.md
-    - Урок 3: data_science/lesson3.md
-  - FastAPI/Starlette:
-    - Вступление: fastapi/index.md
-    - FastAPI (REST): fastapi/lesson1.md
-    - SQLAlchemy: fastapi/lesson2.md
-    - Bash: fastapi/lesson3.md
-    - Git: fastapi/lesson4.md
-    - SQL: fastapi/lesson5.md
-    - asyncio: fastapi/lesson6.md
-    - Telegram-bots: fastapi/lesson7.md
-  - Эбаут: about.md
+  - Неделя 0:
+    - Баш: Неделя 0/Баш.md
+    - Гит: Неделя 0/Гит.md
+    - Редактор: Неделя 0/Редактор.md
+  - Что значит "сделать": done.md
 
 extra:
   search:
